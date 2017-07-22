@@ -242,7 +242,7 @@ border:none!important
 
 .imgbt {
 width:32px;
-margin-top:24px
+margin-top:3px
 }
 
 .in,.out {
@@ -1013,7 +1013,7 @@ z-index:2900
 
 .countpanier {
 float:right;
-margin-top:16px;
+margin-top:-7px;
 background:#fff;
 padding:3px 6px;
 font-weight:700;
