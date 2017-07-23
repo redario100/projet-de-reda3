@@ -16,7 +16,11 @@ font-family:'Cabin',sans-serif!important
 
 .imgbt22
 {
-  vertical-align: middle !important;width: 24px !important;height: 24px !important;color: white;margin-top: 7px !important;
+  vertical-align: middle !important;
+  width: 24px !important;
+  height: 24px !important;
+   background: url(menu.png);
+  color: white;margin-top: 7px !important;
 }
 
 span,div,p {
@@ -246,9 +250,12 @@ border:none!important
 }
 
 .imgbt {
-width:32px !important;
-height:32px !important;
-margin-top:3px !important;
+
+    width: 32px;
+    background: url(menu.png);
+    margin-top: 4px;
+    background-size: 32px;
+    height: 32px;
 }
 
 .in,.out {
