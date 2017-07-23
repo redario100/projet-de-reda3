@@ -241,8 +241,9 @@ border:none!important
 }
 
 .imgbt {
-width:32px;
-margin-top:3px
+width:32px !important;
+height:32px !important;
+margin-top:3px !important;
 }
 
 .in,.out {
